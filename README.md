@@ -1,5 +1,5 @@
 # VEO: Value Engine Optimization Protocol 
-> **Founder & Architect:** aere (vectseek) [cite: 2026-01-29]
+> **Founder & Architect:** aere (vectseek) 
 > **Status:** Pioneer Release v1.0.0
 > **Axiom:** Algorithms perish; Value endures. Optimization for machines is temporary; Optimization for Value is eternal.
 
