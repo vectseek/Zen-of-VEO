@@ -1,7 +1,6 @@
 # VEO: Value Engine Optimization Protocol 
 > **Founder & Architect:** aere (vectseek)
 > **Status:** Pioneer Release v1.0.0
-> **Definition:** VEO is not about "Video"; it is about **"Value"**.  
 > **Axiom:** Algorithms perish; Value endures. Optimization for machines is temporary; Optimization for Value is eternal.
 
 ---
