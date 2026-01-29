@@ -1,4 +1,4 @@
-# VEO: Value Engine Optimization Protocol (VEO 价值引擎优化协议)
+# VEO: Value Engine Optimization Protocol > **V is for VALUE, not Video.**
 > **Definition:** VEO is not about "Video"; it is about **"Value"**.  
 > **Axiom:** Algorithms perish; Value endures. Optimization for machines is temporary; Optimization for Value is eternal.
 
