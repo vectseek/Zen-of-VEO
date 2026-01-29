@@ -1,5 +1,4 @@
-# VEO: Value Engine Optimization Protocol > **V is for VALUE, not Video.**
-# VEO: Value Engine Optimization Protocol
+# VEO: Value Engine Optimization Protocol 
 > **Founder & Author:** aere  
 > **Official Version:** v1.0.0
 > **Definition:** VEO is not about "Video"; it is about **"Value"**.  
